@@ -56,11 +56,7 @@ Getting around Chennai is easy:
 - **Auto-rickshaws and Taxis:** Widely available for convenient point-to-point travel.
 - **Metro Rail:** A growing metro network connects key areas of the city.
 
-## Useful Resources
 
-- [Chennai Tourism](https://www.tourismchennai.com/)
-- [Chennai City Guide](https://www.lonelyplanet.com/india/tamil-nadu/chennai-madras)
-- [Chennai Wikipedia](https://en.wikipedia.org/wiki/Chennai)
 
 Explore Chennai's vibrant culture, indulge in its delectable cuisine, and immerse yourself in its rich history!
 
