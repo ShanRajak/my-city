@@ -1,6 +1,4 @@
-# Welcome to Chennai!
-
-![Chennai Skyline](chennai_skyline.jpg)
+# Welcome to Chennai
 
 Chennai, also known as Madras, is the capital city of the Indian state of Tamil Nadu. With its rich cultural heritage, bustling streets, and vibrant food scene, Chennai is a city that beautifully blends tradition and modernity.
 
