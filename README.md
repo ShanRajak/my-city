@@ -6,6 +6,7 @@ Chennai, also known as Madras, is the capital city of the Indian state of Tamil 
 
 ## Table of Contents
 
+
 - [Getting Started](#getting-started)
 - [Places to Visit](#places-to-visit)
 - [Food and Cuisine](#food-and-cuisine)
